@@ -6,3 +6,4 @@ Line 5. Git seems to be very handy and beautiful! I like it.
 Line 6. What happens if you make change to a file that has been staged?
 Line 7. I write this line to answer that question.
 Line 8. This is sth I want to redo later.
+Line 9. This is sth I want to keep after redoing.
