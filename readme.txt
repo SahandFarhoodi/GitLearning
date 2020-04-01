@@ -5,3 +5,4 @@ Line 4. I am a decent boy and I like to learn Git.
 Line 5. Git seems to be very handy and beautiful! I like it.
 Line 6. What happens if you make change to a file that has been staged?
 Line 7. I write this line to answer that question.
+
