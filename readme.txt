@@ -10,3 +10,4 @@ Line 9. This is sth I want to keep after redoing.
 Line 10. Okay line 10 is added finally.
 Line 11. Emacs can be such a pain in the ass!
 Line 12. Now my emacs works perfectly! I installed it using "brew cask install emacs"
+Line 13. I am done with chapter 6.
