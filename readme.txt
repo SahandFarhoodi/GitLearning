@@ -12,3 +12,4 @@ Line 11. Emacs can be such a pain in the ass!
 Line 12. Now my emacs works perfectly! I installed it using "brew cask install emacs"
 Line 13. I am done with chapter 6.
 Line 14. I just came back to github after multiple days. Let's see how much I remember.
+Line 15. Okay I am back to learning Git after a while! Let's do it!!
